@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @youssefamro1
+- 👋 Hi, I’m youssef amr
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI and Machine Learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me youssefamr12343@gmail.com
 
 <!---
 youssefamro1/youssefamro1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
