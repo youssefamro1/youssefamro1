@@ -1,7 +1,7 @@
 - 👋 Hi, I’m youssef amr
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI and Machine Learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on real projects and gain more knowledge in artificial intelligence 
 - 📫 How to reach me youssefamr12343@gmail.com
 
 <!---
